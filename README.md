@@ -16,3 +16,4 @@ To run:
 ```
 beamsearch_src/maxent.sh input/sec19_21.txt input/sec19_21.boundary input/m1.txt output/sys_output beam_size topN topK
 ```
+HW6 OF LING572 (02/15/2022)

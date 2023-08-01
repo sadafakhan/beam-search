@@ -1,5 +1,3 @@
-"""Sadaf Khan, LING572, HW6, 02/15/2022. Implements the beam search for POS tagging."""
-
 import os
 import sys
 import math
